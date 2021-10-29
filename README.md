@@ -1,55 +1,28 @@
 # Note Taker Starter Code
 
-# teamprofile
+# Note taker
 
 ## Description
-This is a team profile app. It displays their position and information.
+In this site, you will be able to add as many note as you would like and delete them as needed.
 
-The application can be reached at https://rakky21.github.io/teamprofile/
+The application can be reached at:
+
+https://rakky21.github.io/noteTaker/
+https://github.com/rakky21/noteTaker
 
 It uses Spectre CSS for sytling.
 
-
-The application must have these classes: Employee, Manager, Engineer, and Intern. The tests for these classes (in the _tests_ directory) must all pass.
 ## Usage
 ### 
-1. 
-2. 
-3. 
-
-### 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-### 
-1. 
-2. 
-3. 
-4. 
-
-### 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
-### Coming Soon
-This card is a placeholder for future apps.
-Click on the mail button will open the user's default email app.
+1. When you click on "Get Started" it prompts you to the note taking section.
+2. Enter a title and a note on the text.
+3. Once you're done with the note you can save it.
+4. When you click on the title of the note on the left you will see the comment.
+5. When you click on the Trash Icon, it will delete that note.
 
 ## Snapshots
-![Start](assets/snapshots/start.png) 
-
-
-
-npm i bootstrap-icons Boostrap icons
-
-
+![Deleted notes](public/assets/deletenotes.jpg) 
+![Added notes](public/assets/addednotes.jpg) 
 
 ## Instructions 
 
